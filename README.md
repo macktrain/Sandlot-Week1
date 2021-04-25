@@ -3,19 +3,19 @@
 
 <p align="center">
     <a href="#Header">
-        <img src="/assets/images/HW1-Readme-Header-Img2.png" 
+        <img src="/assets/images/Horiseon-Readme-Banner2.png" 
              alt="Header ">
     </a>
     <a href="#Main">
-        <img src="/assets/images/HW1-Main-Header-Img2.png" 
+        <img src="/assets/images/HW1-Readme-Header-Img2.png" 
             alt="Review Main Detail">
     </a>
     <a href="#Aside">
-        <img src="/assets/images/HW1-Aside-Header-Img2.png" 
+        <img src="/assets/images/HW1-Readme-Aside-Img2.png" 
              alt="Review Aside Detail">
     </a>
     <a href="#Footer">
-        <img src="/assets/images/HW1-Footer-Header-Img2.png" 
+        <img src="/assets/images/HW1-Readme-Footer-Img2.png" 
             alt="Review Footer Detail">
     </a>
     <img src="/assets/images/HW1-Readme-Banner-End2.png" 
