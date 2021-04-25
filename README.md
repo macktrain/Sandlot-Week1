@@ -1,6 +1,6 @@
 # Understanding the Horiseon Home Page
 **Version 2.0.0**
-<link rel="readme-hero" href="https://github.com/macktrain/sandlot-week1.git/assets/images/Horiseon-Branded.svg">
+<link rel="readme-hero" href="https://github.com/macktrain/sandlot-week1.git/assets/images/Horiseon-Branded.png">
 ## *Sections of the Page*
 <a href="#Home"> Header Section </a>
 <a href="#News"> Main Section </a>
