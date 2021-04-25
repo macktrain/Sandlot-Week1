@@ -9,13 +9,13 @@
 </p>
 
 <a href="#Header"><img src="/assets/images/HW1-Readme-Header-Img2.png" 
-            alt="Back to Horiseon Home Page"></a> <br>
+            alt="Back to Horiseon Home Page"></a>
 <a href="#Main"><img src="/assets/images/HW1-Main-Header-Img2.png" 
-            alt="Back to Horiseon Home Page"></a> <br>
+            alt="Back to Horiseon Home Page"></a>
 <a href="#Aside"><img src="/assets/images/HW1-Aside-Header-Img2.png" 
-            alt="Back to Horiseon Home Page"></a> <br>
+            alt="Back to Horiseon Home Page"></a>
 <a href="#Footer"><img src="/assets/images/HW1-Footer-Header-Img2.png" 
-            alt="Back to Horiseon Home Page"></a> <br>
+            alt="Back to Horiseon Home Page"></a>
 <img src="/assets/images/HW1-Readme-Banner-End2.png" 
             alt="Back to Horiseon Home Page"> <br>
 
