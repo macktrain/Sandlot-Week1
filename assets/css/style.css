@@ -1,5 +1,4 @@
 /* Lee Macklin - Initial Refactor - 4/25/21 */
-
 /* Main pattern update:  cleaned up css/html class vs id to ensure all classes were ones that might be reused and all id's were not reused (or would not be reused e.g. "header" would not reused) */
 
 /* CSS for any organizational homepage being presented to external customers (B2C) */
