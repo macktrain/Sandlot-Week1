@@ -57,9 +57,13 @@
         <li>Lead Generation</li>
         <li>Brand Awareness</li>
         <li>Cost Management</li>
-    </ol>
-    <br><br>
+    </ol>   
     Each of these benefits come in the way of products that are provided along with our primary product offering.
+</div>
+
+## Footer
+<div id="Footer">
+    Standard footer per HSM design standards. 
 </div>
 
 ## Future Opportunities
@@ -79,6 +83,6 @@ CSS <br>
 Photoshop <br>
 
 ## License & Copyright
-© Lee Macklin 2021 <br>
+© Horiseon Lee Macklin 2021 <br>
 
 
