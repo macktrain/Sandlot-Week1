@@ -6,7 +6,8 @@
 <a href="#News"> Main Section </a>
 <a href="#Contact"> Aside Section </a>
 <a href="#About"> Footer Section </a>
-<img srg="./assets/images/Horiseon-Branded.svg">
+
+<img src="./assets/images/Horiseon-Branded.svg">
 
 ## Contributors
 <p>Lee Macklin - Designer (LeeMacklin@yahoo.com)</p>
