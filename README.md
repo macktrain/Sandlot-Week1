@@ -26,36 +26,37 @@
 
 ## Header
 <div id="Header">
-    The header is comprised of two areas of interest:
-    1.  The Horiseon SEO & Marketing (HSM) logo.
-        a.  There are design standards for the logo; however, they will be released in the near future
-    2.  The HSM home page top nav bar allowing users to navigate into the <a href="Main">main section</a> of the home page.
+    <span> The header is comprised of two areas of interest: </span>
+    <ul>
+        <li>1. The Horiseon SEO & Marketing (HSM) logo.<br>
+        Note.  There are design standards for the logo; however, they will be released in the near future.
+        </li>
+        <li>2.  The HSM home page top nav bar allowing users to navigate into the <a href="Main">main section</a> of the home page.
+        </li>
+    </ul>
 </div>
 
 ## Main
 <div id="Main">
     Here in the main section the primary solutions that HSM provides are marketed here.  
-    1.  Search Engine Optimization
-    2.  Online Reputation Management
-    3.  Social Media Marketing
-
-    Each product in main has an associated image that provides a marketing illustration for the product itself.  They have each been licensed by HSM and are retained in the Marketing teams' image library for future re-use.  *DO NOT* copy and reuse these images.  Please reach out to the marketing team who is managing all of the image licenses.
-
-    The primary solutions have benefits that are listed in the <a href='Aside'>Aside section</a>.
+    <ul>
+        <li>1.  Search Engine Optimization</li>
+        <li>2.  Online Reputation Management</li>
+        <li>3.  Social Media Marketing </li>
+    </ul>
+    <span> 
+        Each product in main has an associated image that provides a marketing illustration for the product itself.  They have each been licensed by HSM and are retained in the Marketing teams' image library for future re-use.  *DO NOT* copy and reuse these images.  Please reach out to the marketing team who is managing all of the image licenses. <br<br>
+        The primary solutions have benefits that are listed in the <a href='Aside'>Aside section</a>.
+    </span>
 </div>
 ## Aside
 <div id="Aside">
     Here in the main section the primary solutions that HSM provides are marketed here.  
-    1.  Search Engine Optimization
-    2.  Online Reputation Management
-    3.  Social Media Marketing
-
-    Each product in main has an associated image that provides a marketing illustration for the product itself.  They have each been licensed by HSM and are retained in the Marketing teams' image library for future re-use.  *DO NOT* copy and reuse these images.  Please reach out to the marketing team who is managing all of the image licenses.
-
-    The primary solutions have benefits
+        1.  Search Engine Optimization
+        2.  Online Reputation Management
+        3.  Social Media Marketing
+    <br><br>
 </div>
-
-
 
 ## Contributors
 Lee Macklin - Designer <a href="leemacklin@yahoo.com">leemacklin@yahoo.com</a> <br>
