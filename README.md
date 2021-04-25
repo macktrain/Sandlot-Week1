@@ -6,13 +6,11 @@
 <a href="#News"> Main Section </a>
 <a href="#Contact"> Aside Section </a>
 <a href="#About"> Footer Section </a>
-
-
-
+<img srg="./assets/images/Horiseon.jpg">
 
 ## Contributors
-Lee Macklin - Designer (LeeMacklin@yahoo.com)
-Lee Macklin - Full Stack Developer
+<p>Lee Macklin - Designer (LeeMacklin@yahoo.com)</p>
+<p>Lee Macklin - Full Stack Developer</p>
 
 ## License & Copyright
 © Lee Macklin 2021
