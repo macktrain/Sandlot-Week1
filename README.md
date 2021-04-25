@@ -8,13 +8,11 @@
 <a href="#About"> Footer Section </a>
 
 <p align="center">
-  <a href="https://github.com/feross/standard">
-    <img src="/assets/images/Horiseon-Branded.svg"
-         alt="Standard">
-  </a>
+    <a href="https://macktrain.github.io/sandlot-week1/">
+       <img src="/assets/images/Horiseon-Branded.png" 
+            alt="Back to Horiseon Home Page">
+    </a>
 </p>
-
-
 
 ## Contributors
 <p>Lee Macklin - Designer (LeeMacklin@yahoo.com)</p>
