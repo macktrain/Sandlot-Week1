@@ -1,11 +1,5 @@
 # Understanding the Horiseon Home Page
 **Version 2.0.0**
-<link rel="readme-hero" href="https://github.com/macktrain/sandlot-week1.git/assets/images/Horiseon-Branded.png">
-## *Sections of the Page*
-<a href="#Home"> Header Section </a>
-<a href="#News"> Main Section </a>
-<a href="#Contact"> Aside Section </a>
-<a href="#About"> Footer Section </a>
 
 <p align="center">
     <a href="https://macktrain.github.io/sandlot-week1/">
@@ -14,9 +8,24 @@
     </a>
 </p>
 
+<a href="#Header"><img src="/assets/images/HW1-Readme-Header-Img2.png" 
+            alt="Back to Horiseon Home Page"></a> <br>
+<a href="#Main"><img src="/assets/images/HW1-Main-Header-Img2.png" 
+            alt="Back to Horiseon Home Page"></a> <br>
+<a href="#Aside"><img src="/assets/images/HW1-Aside-Header-Img2.png" 
+            alt="Back to Horiseon Home Page"></a> <br>
+<a href="#Footer"><img src="/assets/images/HW1-Footer-Header-Img2.png" 
+            alt="Back to Horiseon Home Page"></a> <br>
+<img src="/assets/images/HW1-Readme-Banner-End2.png" 
+            alt="Back to Horiseon Home Page"> <br>
+
+
 ## Contributors
-<p>Lee Macklin - Designer (LeeMacklin@yahoo.com)</p>
-<p>Lee Macklin - Full Stack Developer</p>
+Lee Macklin - Designer <a href="leemacklin@yahoo.com">leemacklin@yahoo.com</a> <BR>
+Lee Macklin - HTML/CSS
+
+##Technologies & Tools
+HTML <BR>
 
 ## License & Copyright
 © Lee Macklin 2021
