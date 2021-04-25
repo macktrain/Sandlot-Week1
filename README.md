@@ -7,7 +7,14 @@
 <a href="#Contact"> Aside Section </a>
 <a href="#About"> Footer Section </a>
 
-<img src="/assets/images/Horiseon-Branded.svg">
+<p align="center">
+  <a href="https://github.com/feross/standard">
+    <img src="/assets/images/Horiseon-Branded.svg"
+         alt="Standard">
+  </a>
+</p>
+
+
 
 ## Contributors
 <p>Lee Macklin - Designer (LeeMacklin@yahoo.com)</p>
